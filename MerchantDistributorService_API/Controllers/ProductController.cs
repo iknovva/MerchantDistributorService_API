@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 using System.Web.Http;
 
 namespace MerchantDistributorService_API.Controllers
-{
+{ 
     public class ProductController : ApiController
     {
         private IProductRepository _productRepository;
