@@ -3,3 +3,9 @@ C:\Users\FIROZ\Desktop\MerchantDistributorAPISolution\MerchantDistributorService
 C:\Users\FIROZ\Desktop\MerchantDistributorAPISolution\MerchantDistributorServices_API\BusinessObjects\obj\Debug\BusinessObjects.dll
 C:\Users\FIROZ\Desktop\MerchantDistributorAPISolution\MerchantDistributorServices_API\BusinessObjects\obj\Debug\BusinessObjects.pdb
 C:\Users\FIROZ\Desktop\MerchantDistributorAPISolution\MerchantDistributorServices_API\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+E:\Github\webapi\MerchantDistributor_API\MerchantDistributorService_API\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\Github\webapi\MerchantDistributor_API\MerchantDistributorService_API\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\Github\webapi\MerchantDistributor_API\MerchantDistributorService_API\BusinessObjects\obj\Debug\BusinessObjects.csprojAssemblyReference.cache
+E:\Github\webapi\MerchantDistributor_API\MerchantDistributorService_API\BusinessObjects\obj\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+E:\Github\webapi\MerchantDistributor_API\MerchantDistributorService_API\BusinessObjects\obj\Debug\BusinessObjects.dll
+E:\Github\webapi\MerchantDistributor_API\MerchantDistributorService_API\BusinessObjects\obj\Debug\BusinessObjects.pdb
